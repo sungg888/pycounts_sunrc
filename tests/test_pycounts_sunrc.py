@@ -1,4 +1,3 @@
-from pycounts_sunrc import pycounts_sunrc
 from pycounts_sunrc.pycounts_sunrc import count_words
 from collections import Counter
 
